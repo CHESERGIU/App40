@@ -1,0 +1,11 @@
+C:\Users\sergi\source\repos\App40\bin\Debug\netcoreapp3.1\App40.exe
+C:\Users\sergi\source\repos\App40\bin\Debug\netcoreapp3.1\App40.deps.json
+C:\Users\sergi\source\repos\App40\bin\Debug\netcoreapp3.1\App40.runtimeconfig.json
+C:\Users\sergi\source\repos\App40\bin\Debug\netcoreapp3.1\App40.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App40\bin\Debug\netcoreapp3.1\App40.dll
+C:\Users\sergi\source\repos\App40\bin\Debug\netcoreapp3.1\App40.pdb
+C:\Users\sergi\source\repos\App40\obj\Debug\netcoreapp3.1\App40.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\App40\obj\Debug\netcoreapp3.1\App40.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App40\obj\Debug\netcoreapp3.1\App40.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App40\obj\Debug\netcoreapp3.1\App40.dll
+C:\Users\sergi\source\repos\App40\obj\Debug\netcoreapp3.1\App40.pdb
